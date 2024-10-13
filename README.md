@@ -10,12 +10,12 @@ Sept 2022 – Jul 2026 exp.
 
 ### Skills 
 
-•	Data Structures and Algorithms. 
-•	Operating Systems. 
+•	Data Structures and Algorithms 
+•	Operating Systems 
 •	Data Bases 
-•	Version Control Systems (Git & GitHub). 
-•	OOP Concepts. 
-•	Programming Languages (Dart, Python, C#, HTML, CSS and others). 
+•	Version Control Systems (Git & GitHub)
+•	OOP Concepts 
+•	Programming Languages (Dart, Python, C#, HTML, CSS) •  
 
 ### Technical Skills 
 
@@ -23,11 +23,11 @@ Sept 2022 – Jul 2026 exp.
 
 ### Soft Skills 
 
-•	Communication. 
-•	Teamwork. 
-•	Adaptability. 
-•	Time Management. 
-•	Critical Thinking. 
+•	Communication 
+•	Teamwork 
+•	Adaptability 
+•	Time Management 
+•	Critical Thinking • 
 
 ### Experience
 
@@ -35,9 +35,9 @@ Sept 2022 – Jul 2026 exp.
 
 ### Languages 
 •	Arabic (Native) 
-•	English (Very Good) 
+•	English (Very Good) •  
 
 ### Extracurricular Activities 
-• IEEE VICTORIES 2.0 Contest Finalist (2023):  I actively contributed to our success with #TECH_TITANS team in this highly competitive and renowned technology competition.  
+• IEEE VICTORIES 2.0 Contest Finalist (2023):  I actively contributed to our success with #TECH_TITANS team in this highly competitive and renowned technology competition • 
  
  
