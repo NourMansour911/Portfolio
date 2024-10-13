@@ -1,3 +1,5 @@
+# Data Scientist and Analyst
+
 
 # Nour El-Dein Ahmed Mansour
  
@@ -19,6 +21,7 @@ Sept 2022 – Jul 2026 exp.
 •	Programming Languages (Dart, Python, C#, HTML, CSS and others). 
 
 ### Technical Skills 
+
 •	SQL: Experience in writing queries to extract and manipulate data.
 •	Python: Knowledge of libraries such as Pandas, NumPy, and Matplotlib for data manipulation and visualization.
 •	Statistical Analysis: Knowledge of descriptive statistics and inferential statistics.
@@ -28,17 +31,20 @@ Sept 2022 – Jul 2026 exp.
 •	Version Control and Collaboration. 
 
 ### Soft Skills 
+
 •	Communication. 
 •	Teamwork. 
 •	Adaptability. 
 •	Time Management. 
 •	Critical Thinking. 
-Experience
+
+### Experience
 •  Flutter Developer (Sept 2022 - Jan 2024)
 
 ### Languages 
 •	Arabic (Native) 
 •	English (Very Good) 
+
 ### Extracurricular Activities 
 • IEEE VICTORIES 2.0 Contest Finalist (2023):  I actively contributed to our success with #TECH_TITANS team in this highly competitive and renowned technology competition.  
  
