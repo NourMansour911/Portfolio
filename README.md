@@ -19,13 +19,7 @@ Sept 2022 – Jul 2026 exp.
 
 ### Technical Skills 
 
-•	SQL: Experience in writing queries to extract and manipulate data.
-•	Python: Knowledge of libraries such as Pandas, NumPy, and Matplotlib for data manipulation and visualization.
-•	Statistical Analysis: Knowledge of descriptive statistics and inferential statistics.
-•	Database Management: Understanding of relational databases and data warehousing concepts.
-•	Data Cleaning: Experience in preprocessing and cleaning datasets.
-•	Data Visualization: Proficient in creating compelling visualizations using Seaborn for statistical graphics
-•	Version Control and Collaboration. 
+•	SQL •	Python •	Statistical Analysis •	Database Management •	Data Cleaning •	Data Visualization • 
 
 ### Soft Skills 
 
@@ -36,6 +30,7 @@ Sept 2022 – Jul 2026 exp.
 •	Critical Thinking. 
 
 ### Experience
+
 •  Flutter Developer (Sept 2022 - Jan 2024)
 
 ### Languages 
