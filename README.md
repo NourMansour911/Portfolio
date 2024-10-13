@@ -1,7 +1,4 @@
 # Nour El-Dein Ahmed Mansour
-
-### Data Scientist and Analyst
-
  
 Enthusiastic 20-year-old Data Analyst, Studying Computer and Information Science for Three years, passion for the field of Data Science and Analysis. Eager to contribute to data-driven projects and enhance business outcomes. 
 
